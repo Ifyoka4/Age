@@ -1,4 +1,5 @@
 print("let's see how long you've lived in days, minutes and seconds!")
+print("ensure name does not contain numerics")
 name = input("Name:")
 print("Now enter your age:")
 age = int(input("age:"))
